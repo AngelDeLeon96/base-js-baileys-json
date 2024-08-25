@@ -1,0 +1,25 @@
+[
+  {
+    "ref": "00fdd128-18a4-4865-a9f2-5c15e2331e14",
+    "keyword": "a07e48655d1eb1adf63c1b74c6ee668e",
+    "answer": "hola",
+    "options": {},
+    "from": "50766962147",
+    "refSerialize": "79e7fc16f7fb85373fd25a99390f44c0"
+  },
+  {
+    "ref": "ans_6b666ce9-17d8-4303-96b6-47b647526770",
+    "keyword": "key_24ddb0ac-5f13-430c-a79b-65e592b0a09e",
+    "answer": "🙌 Escribe algo en el chat",
+    "options": {
+      "buttons": [],
+      "capture": true,
+      "delay": 0,
+      "nested": [],
+      "keyword": {},
+      "callback": true
+    },
+    "refSerialize": "d73cf558e3c2c17b031a9bebe17e3a19",
+    "from": "50766962147"
+  }
+]
